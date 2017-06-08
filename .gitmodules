@@ -1,3 +1,6 @@
 [submodule "faster-rcnn"]
 	path = faster-rcnn
 	url = https://github.com/pierre-ecarlat/tf-faster-rcnn.git
+[submodule "ssd"]
+	path = ssd
+	url = https://github.com/pierre-ecarlat/SSD-Tensorflow.git
