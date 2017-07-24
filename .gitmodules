@@ -7,3 +7,6 @@
 [submodule "yolo"]
 	path = yolo
 	url = https://github.com/pierre-ecarlat/darkflow.git
+[submodule "models"]
+	path = models
+	url = https://github.com/pierre-ecarlat/models
